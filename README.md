@@ -14,4 +14,14 @@
 
 - [OAuth](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/OAuth.md)
 
+- [JWT(JSON Web Token)]
 
+- [Authentication and Authorization]
+
+- [로그 레벨]
+ 
+- [UI와 UX]
+
+- [CSR & SSR]
+
+- [Vue.js vs React]
