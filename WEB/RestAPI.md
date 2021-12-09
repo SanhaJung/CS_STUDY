@@ -29,7 +29,7 @@
 - 플랫폼에 독립적, 프로그래밍 언어에도 독립적
   <br/>
 
-![SOAP](images/REST API/SOAP4.PNG)
+![SOAP](images/RESTAPI/SOAP4.PNG)
 
 ---
 
@@ -43,7 +43,7 @@
   <br>
   <br>
 
-![RESTAPI](RESTAPI.PNG)
+![RESTAPI](images/RESTAPI/RESTAPI.PNG)
 
 <br/>
 
@@ -115,7 +115,7 @@
 
 <br/>
 
-![restapi설계](restapi2.PNG)
+![restapi설계](images/RESTAPI/restapi2.PNG)
 
 <br/>
 <br/>
