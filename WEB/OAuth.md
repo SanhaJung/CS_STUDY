@@ -1,13 +1,13 @@
-#### OAuth
-## Open Authorization의 약어로 인증을 위한 오픈 스탠다드 프로토콜이다.
+# OAuth
+### Open Authorization의 약어로 인증을 위한 오픈 스탠다드 프로토콜이다.
 
-# 배경
+## 배경
 
 사용자가 여러 어플리케이션에 자신의 비밀번호를 제공하고 싶지 않은 요구에서 시작 됨
 
 또한 클라이언트도 개인정보 관리 책임을 서드파티 애플리케이션(google, kakao 등)에 위임할수 있다.
 
-# keyWord
+## keyWord
 
 client - 서버
 
@@ -17,7 +17,7 @@ Resource Server (ex, google, naver, kakao 등)
 
 Authorization server - 인증/인가를 수행하는 서버로 클라이언트의 접근 자격을 확인하고 Access Token을 발급하여 권한을 부여하는 역할
 
-# 대략적 동작 시퀀스
+## 대략적 동작 시퀀스
 
 1.  인증이 필요한 서비스 -> 서버가 사용자에게 인증 페이지 제공(간편 로그인 api)
 2.  클라이언트는 Authorization Server로 부터 검증 후 Token(Access token과 refresh token)과 정보를 제공받음
