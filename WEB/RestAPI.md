@@ -29,7 +29,7 @@
 - 플랫폼에 독립적, 프로그래밍 언어에도 독립적
   <br/>
 
-![SOAP](/images/REST API/SOAP4.PNG)
+![SOAP](./images/REST API/SOAP4.PNG)
 
 ---
 
