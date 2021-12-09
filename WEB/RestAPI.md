@@ -43,7 +43,7 @@
   <br>
   <br>
 
-![RESTAPI](images/RESTAPI/RESTAPI.PNG)
+![RESTAPI](images/RESTAPI/restapi.PNG)
 
 <br/>
 
