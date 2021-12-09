@@ -1,4 +1,5 @@
-# OAuth는 Open Authorization의 약어로 인증을 위한 오픈 스탠다드 프로토콜이다.
+### OAuth
+##Open Authorization의 약어로 인증을 위한 오픈 스탠다드 프로토콜이다.
 
 # 배경
 
