@@ -6,7 +6,7 @@
 
 - [쿠키(Cookie) 와 세션(Session)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%EC%BF%A0%ED%82%A4%EC%99%80%20%EC%84%B8%EC%85%98.md)
 
-- [HTTP Status Code] 
+- [HTTP Status Code](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 
 - [REST API] 
 
