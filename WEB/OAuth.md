@@ -9,8 +9,11 @@
 # keyWord
 
 client - 서버
+
 Resource Owner - 유저
+
 Resource Server (ex, google, naver, kakao 등)
+
 Authorization server - 인증/인가를 수행하는 서버로 클라이언트의 접근 자격을 확인하고 Access Token을 발급하여 권한을 부여하는 역할
 
 # 대략적 동작 시퀀스
