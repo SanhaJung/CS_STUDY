@@ -8,7 +8,7 @@
 
 - [HTTP Status Code](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 
-- [REST API] (https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/RestAPI.md)
+- [REST API](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/RestAPI.md)
 
 - [웹 서버와 WAS의 차이점] 
 
