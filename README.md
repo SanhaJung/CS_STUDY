@@ -10,7 +10,7 @@
 
 - [REST API](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/RestAPI.md)
 
-- [웹 서버와 WAS의 차이점] 
+- [웹 서버와 WAS의 차이점](./WEB/웹 서버와 WAS의 차이점.md)
 
 - [OAuth](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/OAuth.md)
 
@@ -19,7 +19,7 @@
 - [Authentication and Authorization]
 
 - [로그 레벨]
- 
+
 - [UI와 UX]
 
 - [CSR & SSR]
