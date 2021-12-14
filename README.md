@@ -22,6 +22,6 @@
 
 - [UI와 UX]
 
-- [CSR & SSR]
+- [SSR & CSR](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/SSR%26CSR.md)
 
 - [Vue.js vs React]
