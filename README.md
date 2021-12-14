@@ -10,8 +10,18 @@
 
 - [REST API](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/RestAPI.md)
 
-- [웹 서버와 WAS의 차이점] 
+- [웹 서버와 WAS의 차이점](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%EC%9B%B9%20%EC%84%9C%EB%B2%84%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
-- [OAuth] 
+- [OAuth](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/OAuth.md)
 
+- [JWT(JSON Web Token)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/JWT.md)
 
+- [Authentication and Authorization](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Authentication%20and%20Authorization.md)
+
+- [로그 레벨]
+
+- [UI와 UX]
+
+- [SSR & CSR](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/SSR%26CSR.md)
+
+- [Vue.js vs React]
