@@ -14,9 +14,9 @@
 
 - [OAuth](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/OAuth.md)
 
-- [JWT(JSON Web Token)]
+- [JWT(JSON Web Token)] (https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/JWT.md)
 
-- [Authentication and Authorization]
+- [Authentication and Authorization] (https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Authentication%20and%20Authorization.md)
 
 - [로그 레벨]
 
