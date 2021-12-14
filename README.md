@@ -20,7 +20,7 @@
 
 - [로그 레벨](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%EB%A1%9C%EA%B7%B8%20%EB%A0%88%EB%B2%A8.md)
 
-- [UI와 UX]
+- [UI와 UX](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/UI%EC%99%80UX.md)
 
 - [SSR & CSR](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/SSR%26CSR.md)
 
