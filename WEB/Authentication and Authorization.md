@@ -30,14 +30,16 @@
    4. 복호화된 데이터를 통해 사용자 정보(ex. user id) 얻음
    5. 사용자 정보를 사용하여 DB에서 해당 유저의 권한(permission) 확인
    6. 유저가 충분한 권한을 가지고 있으면 해당 요청 처리
-   7. 유저가 권한을 가지고 있지 안으면 Unauthorized Response(401) 혹은 다른 에러 코드 보냄
+   7. 유저가 권한을 가지고 있지 않으면 Unauthorized Response(401) 혹은 다른 에러 코드 보냄
 
 ----
 ### 예상질문
-1. 인가 과정을 설명하세요.
-2. 인증과 인가의 차이점을 설명하세요.
+📌인가 과정을 설명하세요.
+
+📌인증과 인가의 차이점을 설명하세요.
+
 ----
-### Reference
+### 🔗Reference
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=taeyoun795&logNo=220588115319
 https://velog.io/@aaronddy/%EC%9D%B8%EC%A6%9DAuthentication%EA%B3%BC-%EC%9D%B8%EA%B0%80Authorization
 https://ivorycode.tistory.com/entry/%EC%9D%B8%EC%A6%9DAuthentication%EA%B3%BC-%EC%9D%B8%EA%B0%80Authorization
