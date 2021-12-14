@@ -119,7 +119,7 @@ JSON 웹 토큰은 세션 상태를 포함한다. 하지만 프로젝트 요건�
 
 - Refresh Token은 Access Token과 같은 JWT이다.
 - Access Token과 Refresh Token을 발급하는데 Refresh Token은 긴 유효기간을 가지고, Access Token이 만료되었을 때 새로 발급해준다.
-- Refresh Token의 유효기간도 만료되었다면, 사용자는 새로 로근인을 해야 한다.
+- Refresh Token의 유효기간도 만료되었다면, 사용자는 새로 로그인을 해야 한다.
 
 _Refresh Token도 탈취될 수 있기 때문에 적절한 유효기간을 설정할 필요가 있다._
 <br>
