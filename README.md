@@ -18,7 +18,7 @@
 
 - [Authentication and Authorization](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Authentication%20and%20Authorization.md)
 
-- [로그 레벨]
+- [로그 레벨](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%EB%A1%9C%EA%B7%B8%20%EB%A0%88%EB%B2%A8.md)
 
 - [UI와 UX]
 
