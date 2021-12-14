@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="./images/SSR&CSR/SSR.jpg">
+<img src="./images/SSR&CSR/SSR.png">
 
 ```
 1. 유저가 웹사이트에 요청을 보낸다.
@@ -38,7 +38,7 @@
 ---
 
 <br>
-<img src="./images/SSR&CSR/MPA.jpg">
+<img src="./images/SSR&CSR/MPA.png">
 
 <br>
 
@@ -57,7 +57,7 @@
 #### **CSR의 진행 과정**
 
 <br>
-<img src="./images/SSR&CSR/CSR.jpg">
+<img src="./images/SSR&CSR/CSR.png">
 
  <br>
 
@@ -86,7 +86,7 @@
 ---
 
 <br>
-<img src="./images/SSR&CSR/SPA.jpg">
+<img src="./images/SSR&CSR/SPA.png">
 
 <br>
 
@@ -100,7 +100,7 @@
 
 <br>
 
-<img src="./images/SSR&CSR/pic1.jpg">
+<img src="./images/SSR&CSR/pic1.png">
 
 <br>
 
