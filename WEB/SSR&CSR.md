@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6J4Fs%2FbtrcNnv3HWf%2F3f3KnWPKUBtlU7HshmcuOK%2Fimg.png">
+<img src="./images/SSR&CSR/SSR.jpg">
 
 ```
 1. 유저가 웹사이트에 요청을 보낸다.
@@ -38,7 +38,7 @@
 ---
 
 <br>
-<img src="https://i1.wp.com/hanamon.kr/wp-content/uploads/2021/03/MPA.png?resize=768%2C415&ssl=1">
+<img src="./images/SSR&CSR/MPA.jpg">
 
 <br>
 
@@ -57,7 +57,7 @@
 #### **CSR의 진행 과정**
 
 <br>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmvAPF%2FbtrcM1fGQEJ%2FoqGeGnUFg9wXZOkClMC39k%2Fimg.png">
+<img src="./images/SSR&CSR/CSR.jpg">
 
  <br>
 
@@ -86,7 +86,7 @@
 ---
 
 <br>
-<img src="https://hanamon.kr/spa-vs-mpa%ec%99%80-ssr-vs-csr-%ec%a0%95%eb%a6%ac/spa/">
+<img src="./images/SSR&CSR/SPA.jpg">
 
 <br>
 
@@ -100,7 +100,7 @@
 
 <br>
 
-<img src="https://hanamon.kr/spa-vs-mpa%ec%99%80-ssr-vs-csr-%ec%a0%95%eb%a6%ac/spa/">
+<img src="./images/SSR&CSR/pic1.jpg">
 
 <br>
 
