@@ -4,8 +4,8 @@
 
 <br>
 
-## Vue => 자바스크립트 Progressive FrameWork
-## React -> 자바스크립트 라이브러리
+### Vue -> 자바스크립트 Progressive FrameWork
+### React -> 자바스크립트 라이브러리
 
 프레임워크 -> SW 특정 문제를 해결하기 위해 상호 협력하는 클래스와 인터페이스의 집합
 라이브러리 -> 단순 활용가능한 도구들의 집합
