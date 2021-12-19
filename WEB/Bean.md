@@ -1,4 +1,4 @@
-# Bean Scope
+# Bean
 
 ### **POJO란?**
 
