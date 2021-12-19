@@ -24,7 +24,7 @@
 
 - [SSR & CSR](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/SSR%26CSR.md)
 
-- [Vue.js vs React]
+- [Vue.js vs React](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Vue.js%20vs%20React.md)
 
 - [네이티브 앱 / 웹 앱 / 하이브리드 앱]
 
