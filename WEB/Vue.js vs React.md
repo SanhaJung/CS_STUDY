@@ -19,19 +19,19 @@
 
 <br>
 
-### React Life Cycle
+## React Life Cycle
 #### Mounting – Updating – Unmounting
 ![image](https://user-images.githubusercontent.com/27480253/146673037-443e4299-e8c2-42fe-9adc-1f473c993154.png)
 
 <br>
 
-### Vue Life Cycle
+## Vue Life Cycle
 #### Creation - Mounting - Updating - Destruction
 ![image](https://user-images.githubusercontent.com/27480253/146673083-c1d7c1a5-6e17-4a24-9736-f356b84413e3.png)
 
 <br>
 
 ## 공통점 
-### 싱글페이지 어플리케이션, 컴포넌트 단위, 라우팅 기능
-### 비슷한 구성요소 존재 (props, state)
+#### 싱글페이지 어플리케이션, 컴포넌트 단위, 라우팅 기능
+#### 비슷한 구성요소 존재 (props, state)
 
