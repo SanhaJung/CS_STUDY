@@ -76,7 +76,10 @@
       ```
 
     - 실행 모습
+
       <img width="700" alt="Banner" src="https://user-images.githubusercontent.com/63037344/146664812-a530e511-fea6-4864-bf20-7d21c6b2f960.png">
+
+<br>
 
 5.  Application Event > Spring Boot에서 제공하는 다양한 시점의 이벤트들이다.
 
