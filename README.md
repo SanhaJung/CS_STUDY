@@ -25,5 +25,15 @@
 - [SSR & CSR](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/SSR%26CSR.md)
 
 - [Vue.js vs React]
+
+- [네이티브 앱 / 웹 앱 / 하이브리드 앱]
+
+- [PWA(Progressive Web App)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/PWA.md)
+
+- CSRF와 XSS
+
 - Spring
+    * [[Spring] Bean Scope]
     * [[Spring] MVC Framework]()
+    * [[Srping Boot] SpringApplication](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20SpringApplication.md)
+    * [[Spring Boot] Test Code]
