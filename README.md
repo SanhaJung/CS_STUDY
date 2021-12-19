@@ -34,6 +34,6 @@
 
 - Spring
     * [[Spring] Bean](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Bean.md)
-    * [[Spring] MVC Framework](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Spring%20MVC%20Framework.md)
+    * [[Spring] MVC Framework](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Spring%20MVC%20Framework.md) 
     * [[Srping Boot] SpringApplication](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20SpringApplication.md)
     * [[Spring Boot] Test Code]
