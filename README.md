@@ -33,7 +33,7 @@
 - CSRF와 XSS
 
 - Spring
-    * [[Spring] Bean Scope](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Bean.md)
+    * [[Spring] Bean](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Bean.md)
     * [[Spring] MVC Framework]()
     * [[Srping Boot] SpringApplication](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20SpringApplication.md)
     * [[Spring Boot] Test Code]
