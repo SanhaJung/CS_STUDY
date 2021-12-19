@@ -17,6 +17,7 @@
 > Bean은 Spring IoC(inversion of control) Container가 관리하는 POJO기반의 자바 객체를 의미한다. Bean은 Application의 핵심을 이루는 객체이며, 대부분 Container에 공급하는 설정 메타 데이터(XML 파일)에 의해 생성된다.
 
 ※ Container는 인스터스의 생명주기를 관리하며, 생성된 인스턴스들에게 추가적인 기능을 제공하는 것이다.
+<br>
 ※ Spring IoC Container는 객체의 생성과 의존성을 관리한다.
 
 <br>
