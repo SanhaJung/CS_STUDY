@@ -49,7 +49,7 @@ public void cancelOrder(Long orderId) {
 
 <br>
 
-※영속성 컨텍스트는 Entity를 영구 저장 하는 환경 이라는 뜻으로, 애플리케이션이 데이터베이스에서 꺼내온 객체를 보관하는 역할을 한다. Entity Manager를 통해 Entity를 조회하거나 저장할 때 Entity를 보관하고 관리한다.
+※ 영속성 컨텍스트는 Entity를 영구 저장 하는 환경 이라는 뜻으로, 애플리케이션이 데이터베이스에서 꺼내온 객체를 보관하는 역할을 한다. Entity Manager를 통해 Entity를 조회하거나 저장할 때 Entity를 보관하고 관리한다.
 <br>
 (Entity Manager에서 detach된 Entity를 준영속, DB에 반영되기 전 처음으로 생성된 Entity를 비영속이라고 한다.)
 <br>
@@ -57,8 +57,6 @@ public void cancelOrder(Long orderId) {
 ### **@DynamicUpdate**
 
 ---
-
-<br>
 
 Dirty Checking에서 실행하는 update문의 경우 Entity의 모든 내용을 update해 필드가 많을 경우 부담이 갈 수 있기 때문에, 이 경우 해당 Entity의 클래스에 @DynamicUpdate 어노테이션을 추가하면 변경된 필드만 update할 수 있다.
 
