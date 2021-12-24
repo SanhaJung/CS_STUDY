@@ -37,7 +37,7 @@
 
 ### 단위 테스트
 
-> 하나의 모듈을 기준으로 독립적을 ㅗ진행되는 가장 작은 단위의 테스트
+> 하나의 모듈을 기준으로 독립적으로 진행되는 가장 작은 단위의 테스트
 >
 > 하나의 기능 or 메소드
 
@@ -100,9 +100,9 @@ public class HomeControllerTest {
 6. `status().isOk()`
    * HTTP Header의 Status 검증(200, 404, 500error같은 것)
    * 여기선 .isOk()이기 떄문에 200인지 아닌지 검증
-7. `content().string(hello)`
+7. `content().string(home)`
    * 응답 본문의 내용 검증
-   * otroller에서 hello를 리턴하기 때문에 이 값이 맞는지 검증
+   * cotroller에서 home를 리턴하기 때문에 이 값이 맞는지 검증
 
 테스트에 통과하면 다음과 같이 `Tests passed`가 뜬다
 
