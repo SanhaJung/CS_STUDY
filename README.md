@@ -38,7 +38,7 @@
     * [[Srping Boot] SpringApplication](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20SpringApplication.md)
     * [[Spring Boot] Test Code]
     * JPA
-    * [Spring Data JPA] 더티 체킹(Dirty Checking)(https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Dirty%20Checking.md)
+    * [[Spring Data JPA] 더티 체킹(Dirty Checking)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Dirty%20Checking.md)
     * Spring Security - 인증 및 권한 부여
 
 
