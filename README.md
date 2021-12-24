@@ -37,7 +37,7 @@
     * [[Spring] MVC Framework](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Spring%20MVC%20Framework.md) 
     * [[Srping Boot] SpringApplication](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20SpringApplication.md)
     * [[Spring Boot] Test Code]
-    * JPA
+    * [JPA](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/JPA.md)
     * [[Spring Data JPA] 더티 체킹(Dirty Checking)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Dirty%20Checking.md)
     * Spring Security - 인증 및 권한 부여
 
