@@ -67,6 +67,11 @@
 
 ![spring-security-filter](https://user-images.githubusercontent.com/63037344/147349539-fb7da1d8-f353-4683-91e4-472f44d69a4f.png)
 
+> 위의 예시는 클라이언트가 리소스에 대한 접근 권한이 없을 때 처리를 담당하는 필터 UsernamePasswordAuthenticationFilter이다.   
+> 이 외에도 필터의 종류는 다양하다.
+
+- https://siyoon210.tistory.com/32
+
 <hr/>
 
 ### 예상 질문
