@@ -19,6 +19,8 @@
 #### 문제점 : 서비스간 서로 의존성이 존재하기 때문에 시스템의 일부를 수정하더라도 전체 어플리케이션의 Build, Test, Packaging 과정을 거쳐야 함
 
 <br>
+<hr>
+<br>
 
 ### 2. 서비스 지향 아키텍처 (SOA - Service Oriented Architecture)
 ![image](https://user-images.githubusercontent.com/27480253/147805089-3f8eb362-1025-44e4-9afe-b2dcab8519ef.png)
@@ -27,6 +29,8 @@
 #### 장점 : 서비스 단위로 모듈을 분리하다 보니 자연스럽게 결합도가 낮아져 확장성, 유연성, 유지보수성을 높힘
 #### 단점 : 결국 하나의 DB에서 배포된다는 점과 서비스의 공통적 모듈을 분리하기가 어렵기 때문에 실제 비즈니스의 성공사례가 드뭄
 
+<br>
+<hr>
 <br>
 
 ### 3. 마이크로서비스 아키텍처 (MSA - Microservice Architecture)
