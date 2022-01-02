@@ -156,3 +156,7 @@ dog.breed = "보더콜리"; // 가능
 📌 Upcasting과 Downcasting이 무엇인가요?
 
 > 위 내용 참고
+
+## **참고 자료**
+
+https://medium.com/@plantstoen/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%9E%90%EB%B0%94%EC%9D%98-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-%EC%A0%90-1-26b1e1a35491
