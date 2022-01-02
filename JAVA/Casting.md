@@ -29,7 +29,7 @@ int b = (int) 1.234; // 성공
 
 <br>
 
-<img src = "Casting1.png">
+<img src = "./images/Casting/Casting1.png">
 
 ### **묵시적 형변환**
 
@@ -103,7 +103,7 @@ class Dog extends Animal {
 
 Upcasting이란 자식 클래스에서 부모 클래스로 Casting되는것을 의미한다. 기본적으로 하위 클래스에서 상위 클래스로 변환되기 때문에 묵시적 형변환이 가능하다.
 
-<img src = "Casting2.png">
+<img src = "./images/Casting/Casting2.png">
 
 ```
 Animal animal = new Dog(); // Animal 타입에 Dog타입 대입
@@ -124,7 +124,7 @@ animal.giveHand(); // 컴파일 에러
 
 DownCasting이란 Upcasting으로 인해 고유의 특성을 잃은 자식 클래스 객체를 다시 원래의 형태로 복원 시켜주는 것을 의미한다. 따라서 Upcasting과는 다르게 명시적 형변환으로 Casting 해야한다.
 
-<img src = "Casting3.png">
+<img src = "./images/Casting/Casting3.png">
 
 ```
 Animal animal = new Dog();
