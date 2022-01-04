@@ -3,7 +3,7 @@
 - [Java 컴파일 과정]
 - [Call by Value _vs_ Call by Reference]
 - [String / StringBuffer / StringBuilder](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/String%20:%20StringBuffer%20:%20StringBuilder.md)
-- [자바 가상 머신(Java Virtual Machine)]
+- [자바 가상 머신(Java Virtual Machine)](https://github.com/SanhaJung/CS_STUDY/edit/main/JAVA/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0(JVM).md)
 - [Casting(업캐스팅 & 다운캐스팅)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Casting.md)
 ## 🌐 Web
 
