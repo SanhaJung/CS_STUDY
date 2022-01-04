@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/27480253/148051289-2865f189-bfa8-4802-b580-ddf177b452b9.png)
 
 > JDK - 개발도구 키트, JAVA등 컴파일러 디버거 등을 포함하는 프로그램
+> 
 > JRE - JVM과 각종 자바 라이브러리를 포함하는 자바 실행 환경
 
 <hr>
