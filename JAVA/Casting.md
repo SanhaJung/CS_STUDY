@@ -19,7 +19,7 @@
 기본형(primitive type)인 boolean, short, int, long float, double, char의 Casting은 데이터의 손실을 막기 위해 동작한다.
 
 ```
-int a = 1.234; // 에러<br>
+int a = 1.234; // 에러
 int b = (int) 1.234; // 성공
 ```
 
