@@ -5,7 +5,7 @@
 <br>
 
 ### 💡 들어가기 전
-### JDK, JRE, JVM 의 포함 관계
+#### JDK, JRE, JVM 의 포함 관계
 
 ![image](https://user-images.githubusercontent.com/27480253/148051289-2865f189-bfa8-4802-b580-ddf177b452b9.png)
 
