@@ -5,6 +5,18 @@
 - [String / StringBuffer / StringBuilder](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/String%20:%20StringBuffer%20:%20StringBuilder.md)
 - [자바 가상 머신(Java Virtual Machine)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0(JVM).md)
 - [Casting(업캐스팅 & 다운캐스팅)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Casting.md)
+- [[Java] 오토 박싱 & 오토언박싱]
+- [[Java] Thread 활용]
+- [[Java] 고유 락(Intrinsic Lock)]
+- [[Java] 문자열 클래스] 
+- [[Java] Garbage Collection]
+- [[Java] Promotion & Casting]
+- [[Java] Primitive type & Reference type]
+- [[Java] 직렬화(Serialization)]
+- [[Java] Error & Exception]
+- [[Java] Stream API]
+- [[Java] Record]
+- 
 ## 🌐 Web
 
 - [브라우저 동작 방법](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md) 
