@@ -1,11 +1,11 @@
 # CS_STUDY
 ## ☕️ Java
 - [Java 컴파일 과정]
-- [Call by Value _vs_ Call by Reference]
+- [Call by Value _vs_ Call by Reference](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Call%20by%20Value%20vs%20Call%20by%20Reference.md)
 - [String / StringBuffer / StringBuilder](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/String%20:%20StringBuffer%20:%20StringBuilder.md)
 - [자바 가상 머신(Java Virtual Machine)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0(JVM).md)
 - [Casting(업캐스팅 & 다운캐스팅)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Casting.md)
-- [[Java] 오토 박싱 & 오토언박싱]
+- [[Java] 오토 박싱 & 오토언박싱](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EC%98%A4%ED%86%A0%EB%B0%95%EC%8B%B1%EA%B3%BC%20%EC%98%A4%ED%86%A0%EC%96%B8%EB%B0%95%EC%8B%B1.md)
 - [[Java] Thread 활용](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Thread.md)
 - [[Java] 고유 락(Intrinsic Lock)]
 - [[Java] 문자열 클래스] 
@@ -47,7 +47,7 @@
 
 - [PWA(Progressive Web App)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/PWA.md)
 
-- CSRF와 XSS
+- [CSRF와 XSS](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/CSRF%EC%99%80%20XSS.md)
 
 - Spring
     * [[Spring] Bean](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Bean.md)
