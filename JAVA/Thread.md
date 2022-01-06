@@ -75,7 +75,7 @@ public class MyThread extends Thread {
 }
 ```
 
-Runnable 구현의 경우 Thread 클래스의 static 메소드인 currentThread()를 호출하여 현재 Thread에 대한 참조를 얻어와야만 호출이 가능하지만, Thread 클래스를 상속받으면 Thread 클래스의 메소드(getName())를 바로 사용할 수 있다.
+Runnable 구현의 경우 Thread 클래스의 static 메소드인 currentThread()를 호출하여 현재 Thread에 대한 참조를 얻어와야만 Thread 클래스의 메서드 호출이 가능하지만, Thread 클래스를 상속받으면 Thread 클래스의 메서드를 바로 사용할 수 있다.
 
 <br>
 
@@ -176,7 +176,7 @@ public synchronized void minusMoney(int minus){
 
 📌 Thread를 구현할 때 Runnable 인터페이스를 구현하는 것과 Thread 클래스를 상속받아 구현하는 것의 차이점은 무엇인가요?
 
-> 위 내용 참고
+> Runnable 인터페이스로 구현한 경우 Thread 클래스의 static 메소드인 currentThread()를 호출하여 현재 Thread에 대한 참조를 얻어와야만 Thread 클래스의 메서드 호출이 가능하지만, Thread 클래스를 상속받으면 Thread 클래스를 바로 사용할 수 있다.
 
 📌 Thread의 동기화가 필요한 이유가 무엇인가요?
 
