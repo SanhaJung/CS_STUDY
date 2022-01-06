@@ -15,7 +15,7 @@ Cross-Site-Request-Forgery의 약어로 사이트 사이 요청을 위조한다�
 
 ## CSRF 공격 방식
 
-![CSRF](images\CSRF와XSS\attack.PNG)
+![CSRF](images/CSRF와XSS/attack.PNG)
 
 - 악성 스크립트등을 통해 조작할 내용의 게시글 작성
 - 악성 게시글은 DB에 저장됨
@@ -56,7 +56,7 @@ Cross-Site-Request-Forgery의 약어로 사이트 사이 요청을 위조한다�
 
 유저가 웹페이지에 접속하는 것으로, 올바르지 않은 스크립트가 실행되는 취약점 또는 공격방법
 
-![XSS](images\CSRF와XSS\xss.PNG)
+![XSS](images/CSRF와XSS/xss.PNG)
 
 <br/>
 
@@ -104,7 +104,7 @@ Cross-Site-Request-Forgery의 약어로 사이트 사이 요청을 위조한다�
 
 ## CSRF와 XSS의 차이점
 
-![vs](images\CSRF와XSS\vs.PNG)
+![vs](images/CSRF와XSS/vs.PNG)
 
 <br/>
 
