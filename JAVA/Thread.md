@@ -8,7 +8,7 @@
 
 <br>
 
-<img src = "./images/Thread/Thread1.jpg">
+<img src = "./images/Thread/Thread1.JPG">
 
 <br>
 
