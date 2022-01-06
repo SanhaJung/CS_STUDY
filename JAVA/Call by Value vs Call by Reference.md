@@ -11,9 +11,9 @@
 
 <br/>
 
-![swap1](images/swap1.PNG)
+![swap1](images/CallBy/swap1.PNG)
 
-![swap2](images/swap2.PNG)
+![swap2](images/CallBy/swap2.PNG)
 
 - 값만 받아와서 내부적으로 처리를 하고 아무 것도 넘기지를 않음
 
@@ -30,9 +30,9 @@
 
 <br/>
 
-![swap3](images/swap3.PNG)
+![swap3](images/CallBy/swap3.PNG)
 
-![swap4](images/swap4.PNG)
+![swap4](images/CallBy/swap4.PNG)
 
 - 직접 주소를 가져와서 처리를 했기 때문에 swap()의 내부 처리로도 a,b가 교체 됨.
 - 주소나 포인터를 사용하면 직접 변수에 접근하기 때문에 리스크가 있음
