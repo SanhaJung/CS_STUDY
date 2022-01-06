@@ -9,7 +9,7 @@
 - [[Java] Thread 활용](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Thread.md)
 - [[Java] 고유 락(Intrinsic Lock)]
 - [[Java] 문자열 클래스] 
-- [[Java] Garbage Collection]
+- [[Java] Garbage Collection](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98.md)
 - [[Java] Promotion & Casting]
 - [[Java] Primitive type & Reference type]
 - [[Java] 직렬화(Serialization)]
