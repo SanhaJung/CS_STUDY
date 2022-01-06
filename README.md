@@ -6,7 +6,7 @@
 - [자바 가상 머신(Java Virtual Machine)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0(JVM).md)
 - [Casting(업캐스팅 & 다운캐스팅)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Casting.md)
 - [[Java] 오토 박싱 & 오토언박싱]
-- [[Java] Thread 활용]
+- [[Java] Thread 활용](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Thread.md)
 - [[Java] 고유 락(Intrinsic Lock)]
 - [[Java] 문자열 클래스] 
 - [[Java] Garbage Collection]
