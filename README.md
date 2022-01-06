@@ -1,5 +1,22 @@
 # CS_STUDY
-
+## ☕️ Java
+- [Java 컴파일 과정]
+- [Call by Value _vs_ Call by Reference]
+- [String / StringBuffer / StringBuilder](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/String%20:%20StringBuffer%20:%20StringBuilder.md)
+- [자바 가상 머신(Java Virtual Machine)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0(JVM).md)
+- [Casting(업캐스팅 & 다운캐스팅)](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Casting.md)
+- [[Java] 오토 박싱 & 오토언박싱]
+- [[Java] Thread 활용](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Thread.md)
+- [[Java] 고유 락(Intrinsic Lock)]
+- [[Java] 문자열 클래스] 
+- [[Java] Garbage Collection](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98.md)
+- [[Java] Promotion & Casting]
+- [[Java] Primitive type & Reference type]
+- [[Java] 직렬화(Serialization)]
+- [[Java] Error & Exception]
+- [[Java] Stream API]
+- [[Java] Record]
+- 
 ## 🌐 Web
 
 - [브라우저 동작 방법](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md) 
@@ -36,9 +53,10 @@
     * [[Spring] Bean](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Bean.md)
     * [[Spring] MVC Framework](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Spring%20MVC%20Framework.md) 
     * [[Srping Boot] SpringApplication](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20SpringApplication.md)
-    * [[Spring Boot] Test Code]
-    * JPA
+    * [[Spring Boot] Test Code](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/%5BSpring%20Boot%5D%20%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EC%9E%91%EC%84%B1.md)
+    * [JPA](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/JPA.md)
     * [[Spring Data JPA] 더티 체킹(Dirty Checking)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Dirty%20Checking.md)
-    * Spring Security - 인증 및 권한 부여
+    * [Spring Security - 인증 및 권한 부여](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/Spring%20Security%20-%20%EC%9D%B8%EC%A6%9D%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C%20%EB%B6%80%EC%97%AC.md)
+    * [[Spring] 스프링 클라우드 (Spring Cloud)](https://github.com/SanhaJung/CS_STUDY/blob/main/WEB/SpringCloud.md)
 
 
