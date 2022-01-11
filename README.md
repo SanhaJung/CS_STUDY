@@ -13,7 +13,7 @@
 - [[Java] Promotion & Casting]
 - [[Java] Primitive type & Reference type]
 - [[Java] 직렬화(Serialization)]
-- [[Java] Error & Exception]
+- [[Java] Error & Exception](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Error%26Exception.md)
 - [[Java] Stream API]
 - [[Java] Record]
 - 
