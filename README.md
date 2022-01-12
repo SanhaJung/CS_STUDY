@@ -11,7 +11,7 @@
 - [[Java] 문자열 클래스] 
 - [[Java] Garbage Collection](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98.md)
 - [[Java] Promotion & Casting](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Promotion%EA%B3%BCCating.md)
-- [[Java] Primitive type & Reference type]
+- [[Java] Primitive type & Reference type](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 - [[Java] 직렬화(Serialization)]
 - [[Java] Error & Exception](https://github.com/SanhaJung/CS_STUDY/blob/main/JAVA/Error%26Exception.md)
 - [[Java] Stream API]
