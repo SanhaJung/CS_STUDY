@@ -78,6 +78,3 @@ System.out.println((int) n);
  > 메모리 크기가 큰 데이터 타입이라도, 타입의 범위를 포함하지 못한다면 자동 형변환이 불가능합니다.
 <br/>
 
-## 🔗 Reference
-
-- https://jwt.io/introduction
